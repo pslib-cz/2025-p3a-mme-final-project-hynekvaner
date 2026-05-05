@@ -6,3 +6,11 @@
 - konceptová skica: <br>
 <img width="523" height="421" alt="image" src="https://github.com/user-attachments/assets/b18c6582-c7fd-440a-a6f7-dce9dfcc053f" />
 
+## Postup práce:
+- Vymodelovat
+  - Základní tvar
+  - Sloty na sponku a safety pins
+  - vyřešit problém s tenkostí nohou a tykadel
+- tisk z pěnového filamentu
+- pokud filament není černý tak nabarvit na černou
+- upload na printables
