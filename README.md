@@ -12,5 +12,6 @@
   - Sloty na sponku a safety pins
   - vyřešit problém s tenkostí nohou a tykadel
 - tisk z pěnového filamentu
+- testování jestli se dá připnout do vlasů a na oblečení
 - pokud filament není černý tak nabarvit na černou
 - upload na printables
